@@ -1,0 +1,13 @@
+{
+  "name": "e-com-site",
+  "version": "1.0.0",
+  "description": "eCommerce Site",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "tasanee dawson",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
